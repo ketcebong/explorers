@@ -1,0 +1,31 @@
+{
+  "chain_name": "fuel-mainnet",
+  "coingecko": "",
+  "api": [
+    {
+      "provider": "Shazoe",
+      "address": "https://fuel-mainnet-api.shazoe.xyz"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "Shazoe",
+      "address": "https://fuel-mainnet-rpc.shazoe.xyz"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "v0.50.10",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "addr_prefix": "fuelsequencer",
+  "logo": "/logos/fuel.jpg",
+  "assets": [
+    {
+      "base": "fuel",
+      "symbol": "FUEL",
+      "exponent": "9",
+      "coingecko_id": "fuel-network",
+      "logo": "/logos/fuel.jpg"
+    }
+  ]
+}

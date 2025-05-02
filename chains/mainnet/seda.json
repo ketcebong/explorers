@@ -1,0 +1,31 @@
+{
+  "chain_name": "seda-mainnet",
+  "coingecko": "",
+  "api": [
+    {
+      "provider": "Shazoe",
+      "address": "https://seda-mainnet-api.shazoe.xyz"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "Shazoe",
+      "address": "https://seda-mainnet-rpc.shazoe.xyz"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "v0.50.5",
+  "coin_type": "118",
+  "min_tx_fee": "1000",
+  "addr_prefix": "seda",
+  "logo": "/logos/seda.jpg",
+  "assets": [
+    {
+      "base": "aseda",
+      "symbol": "SEDA",
+      "exponent": "18",
+      "coingecko_id": "flux-token",
+      "logo": "/logos/seda.jpg"
+    }
+  ]
+}

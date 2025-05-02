@@ -1,0 +1,31 @@
+{
+  "chain_name": "structs-testnet",
+  "coingecko": "",
+  "api": [
+    {
+      "provider": "Shazoe",
+      "address": "https://structs-testnet-api.shazoe.xyz"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "Shazoe",
+      "address": "https://structs-testnet-rpc.shazoe.xyz"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "v0.50.3",
+  "coin_type": "118",
+  "min_tx_fee": "1000",
+  "addr_prefix": "structs",
+  "logo": "/logos/structs.jpg",
+  "assets": [
+    {
+      "base": "ualpha",
+      "symbol": "ALPHA",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/structs.jpg"
+    }
+  ]
+}

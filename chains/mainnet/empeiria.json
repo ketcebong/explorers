@@ -1,0 +1,19 @@
+{
+  "chain_name": "empeiria-testnet",
+  "api": [{ "provider": "Empeiria", "address": "https://lcd-testnet.empe.io" }],
+  "rpc": [{ "provider": "empeiria", "address": "https://rpc-testnet.empe.io" }],
+  "sdk_version": "0.47.12",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "empe",
+  "logo": "/logos/empe.png",
+  "snapshot_provider": "https://archive-testnet.empe.io",
+  "assets": [
+    {
+      "base": "uempe",
+      "symbol": "EMPE",
+      "exponent": "6",
+      "logo": "/logos/empe.png"
+    }
+  ]
+}

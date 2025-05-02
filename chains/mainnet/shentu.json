@@ -1,0 +1,31 @@
+{
+  "chain_name": "shentu-mainnet",
+  "coingecko": "certik",
+  "api": [
+    {
+      "provider": "Shazoe",
+      "address": "https://shentu-mainnet-api.shazoe.xyz"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "Shazoe",
+      "address": "https://shentu-mainnet-rpc.shazoe.xyz"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.11",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "shentu",
+  "logo": "/logos/shentu.jpg",
+  "assets": [
+    {
+      "base": "uctk",
+      "symbol": "CTK",
+      "exponent": "6",
+      "coingecko_id": "certik",
+      "logo": "/logos/shentu.jpg"
+    }
+  ]
+}
