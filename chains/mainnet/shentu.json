@@ -3,14 +3,14 @@
   "coingecko": "certik",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://shentu-mainnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://shentu-mainnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://shentu-mainnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://shentu-mainnet-rpc.Shazoes.xyz"
     }
   ],
   "snapshot_provider": "",

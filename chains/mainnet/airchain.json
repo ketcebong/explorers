@@ -2,14 +2,14 @@
   "chain_name": "airchain-testnet",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://airchain-testnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://airchain-testnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://airchain-testnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://airchain-testnet-rpc.Shazoes.xyz"
     }
   ],
   "snapshot_provider": "",

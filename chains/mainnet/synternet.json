@@ -2,14 +2,14 @@
   "chain_name": "synternet-mainnet",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://synternet-mainnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://synternet-mainnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://synternet-mainnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://synternet-mainnet-rpc.Shazoes.xyz"
     }
   ],
   "coingecko": "synt",

@@ -3,14 +3,14 @@
   "coingecko": "",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://seda-mainnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://seda-mainnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://seda-mainnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://seda-mainnet-rpc.Shazoes.xyz"
     }
   ],
   "snapshot_provider": "",

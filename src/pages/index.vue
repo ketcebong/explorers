@@ -88,7 +88,7 @@ const chainStore = useBlockchain();
         </svg>
       </div> -->
       <h1 class="text-primary dark:text-white text-3xl md:!text-6xl font-bold">
-        Shazoe Explorer
+        Shazoes Explorer
       </h1>
     </div>
     <!-- <div class="text-center text-base">

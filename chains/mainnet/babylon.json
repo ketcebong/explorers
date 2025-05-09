@@ -3,14 +3,14 @@
   "coingecko": "",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://babylon-mainnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://babylon-mainnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://babylon-mainnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://babylon-mainnet-rpc.Shazoes.xyz"
     }
   ],
   "snapshot_provider": "",

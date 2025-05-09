@@ -3,14 +3,14 @@
   "coingecko": "",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://structs-testnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://structs-testnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://structs-testnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://structs-testnet-rpc.Shazoes.xyz"
     }
   ],
   "snapshot_provider": "",

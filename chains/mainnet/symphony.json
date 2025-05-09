@@ -2,14 +2,14 @@
   "chain_name": "symphony-testnet",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://symphony-testnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://symphony-testnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://symphony-testnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://symphony-testnet-rpc.Shazoes.xyz"
     }
   ],
   "snapshot_provider": "",

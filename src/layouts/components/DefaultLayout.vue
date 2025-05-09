@@ -90,7 +90,7 @@ dayjs();
         <RouterLink to="/" class="flex items-center">
           <!-- <img class="w-10 h-10" src="../../assets/logo.svg" /> -->
           <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
-            Shazoe
+            Shazoes
           </h1>
         </RouterLink>
         <div
@@ -280,7 +280,7 @@ dayjs();
           {{ $t('module.links') }}
         </div>
         <a
-          href="https://twitter.com/_Shazoe"
+          href="https://twitter.com/Shazoess"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >

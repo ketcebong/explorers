@@ -3,14 +3,14 @@
   "coingecko": "",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://fuel-testnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://fuel-testnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://fuel-testnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://fuel-testnet-rpc.Shazoes.xyz"
     }
   ],
   "snapshot_provider": "",

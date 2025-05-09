@@ -2,14 +2,14 @@
   "chain_name": "tellor-testnet",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://tellor-testnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://tellor-testnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://tellor-testnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://tellor-testnet-rpc.Shazoes.xyz"
     }
   ],
   "sdk_version": "0.45.15",

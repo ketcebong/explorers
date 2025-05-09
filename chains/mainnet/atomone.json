@@ -2,14 +2,14 @@
   "chain_name": "atomone-mainnet",
   "api": [
     {
-      "provider": "Shazoe",
-      "address": "https://atomone-mainnet-api.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://atomone-mainnet-api.Shazoes.xyz"
     }
   ],
   "rpc": [
     {
-      "provider": "Shazoe",
-      "address": "https://atomone-mainnet-rpc.shazoe.xyz"
+      "provider": "Shazoes",
+      "address": "https://atomone-mainnet-rpc.Shazoes.xyz"
     }
   ],
   "sdk_version": "0.45.1",
